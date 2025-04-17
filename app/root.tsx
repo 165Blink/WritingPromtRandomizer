@@ -51,8 +51,33 @@ export default function App() {
   );
 }
 
-export function NavBar(){
-  return <label>HI TACO</label>;
+export function NavBar() {
+  return (
+    <nav className="bg-gray-800 p-4">
+      <ul className="flex space-x-4">
+        <li>
+          <a href="/" className="text-white hover:text-gray-300">
+            Home
+          </a>
+        </li>
+        <li>
+          <a href="/create" className="text-white hover:text-gray-300">
+            Create
+          </a>
+        </li>
+        <li>
+          <a href="/prompt-list" className="text-white hover:text-gray-300">
+            Prompt List
+          </a>
+        </li>
+        <li>
+          <a href="/prompt-rand" className="text-white hover:text-gray-300">
+            Random Prompt
+          </a>
+        </li>
+      </ul>
+    </nav>
+  );
 }
 
 export function ErrorBoundary({ error }: Route.ErrorBoundaryProps) {
