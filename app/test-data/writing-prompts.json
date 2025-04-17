@@ -1,0 +1,85 @@
+{
+  "writing_prompts": [
+    {
+      "category": "Personal Reflection & Memoir",
+      "prompts": [
+        "Describe a moment that changed your perspective on something fundamental.",
+        "Write about a place that holds a significant memory for you.",
+        "What is a lesson you learned the hard way?",
+        "Describe a person who has had a profound impact on your life.",
+        "Write about a time you felt truly alive.",
+        "What is a fear you have overcome (or are still working on overcoming)?",
+        "Describe a typical day in your life five years from now.",
+        "Write about a family tradition that is important to you.",
+        "What is a small act of kindness you witnessed or experienced?",
+        "Write about a time you had to make a difficult decision."
+      ]
+    },
+    {
+      "category": "Fiction & Storytelling",
+      "prompts": [
+        "A mysterious package arrives on your doorstep with no return address. What's inside, and what happens next?",
+        "Write a story from the perspective of an inanimate object.",
+        "Two strangers with completely different lives find themselves trapped in an unusual situation together.",
+        "A character discovers they have a hidden talent or ability.",
+        "Write a fairytale with a modern twist.",
+        "A small town holds a secret that has been guarded for generations.",
+        "Imagine a world where dreams can be recorded and replayed. What are the implications?",
+        "Write a story about a journey that goes unexpectedly wrong.",
+        "A character finds an old journal or diary that reveals a shocking truth.",
+        "Create a story based on a single overheard conversation."
+      ]
+    },
+    {
+      "category": "Fantasy & Science Fiction",
+      "prompts": [
+        "In a world about a mythical creature trying to adapt to the modern world.",
+        "What happens when artificial intelligence develops true sentience?",
+        "Explore a world where different dimensions collide.",
+        "Write a story about a space explorer who discovers a planet with a sentient ecosystem.",
+        "Imagine a future where memories can be bought and sold.",
+        "A character discovers a portal to another time period."
+      ]
+    },
+    {
+      "category": "Poetry & Creative Writing",
+      "prompts": [
+        "Write a poem inspired by a specific color.",
+        "Use the five senses to describe a particular place.",
+        "Write a poem about the feeling of nostalgia.",
+        "Create a list poem about everyday objects.",
+        "Write a short piece using only dialogue.",
+        "Experiment with a specific poetic form (e.g., haiku, sonnet).",
+        "Write a piece inspired by a piece of art or music.",
+        "Explore the concept of silence in a written piece.",
+        "Write a poem that tells a mini-story.",
+        "Use personification to bring an abstract idea to life."
+      ]
+    },
+    {
+      "category": "Opinion & Argumentative",
+      "prompts": [
+        "What is one societal norm you would like to see changed? Why?",
+        "Is technology making us more or less connected? Argue your point.",
+        "What are the biggest challenges facing your generation?",
+        "Should art be censored? Defend your position.",
+        "What is the importance of failure?",
+        "Is it more important to be happy or successful?",
+        "What role should social media play in our lives?",
+        "Should education be free for everyone?",
+        "What are the ethical considerations of artificial intelligence?",
+        "What is one thing you believe everyone should learn?"
+      ]
+    },
+    {
+      "category": "Bonus Prompts",
+      "prompts": [
+        "Write a letter to your younger self.",
+        "Describe your perfect day.",
+        "What is a skill you would love to learn?",
+        "Write about a dream you remember vividly.",
+        "What makes you feel grateful?"
+      ]
+    }
+  ]
+}
